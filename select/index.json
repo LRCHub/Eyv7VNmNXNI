@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "I.D.O.L.",
+  "base_artist": "NCT JNJM",
+  "createdAt": "2026-03-13T06:30:25.375067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I.D.O.L.",
+      "artist": "NCT JNJM",
+      "has_synced": false,
+      "path": "select/01_I.D.O.L._NCT_JNJM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I.d.o.l.o.s.",
+      "artist": "Mala Juntera",
+      "has_synced": true,
+      "path": "select/02_I.d.o.l.o.s._Mala_Juntera.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I.D.O.L.R.A.P.",
+      "artist": "lyrical school",
+      "has_synced": false,
+      "path": "select/03_I.D.O.L.R.A.P._lyrical_school.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I.D.O.L.",
+      "artist": "NCT JNJM",
+      "has_synced": false,
+      "path": "select/pl_01_I.D.O.L._NCT_JNJM.txt"
+    }
+  ]
+}
